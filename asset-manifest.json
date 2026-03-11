@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homework_sprint_2/static/css/main.18f8ca56.css",
+    "main.js": "/homework_sprint_2/static/js/main.6f26c4bf.js",
+    "static/js/787.66cb4309.chunk.js": "/homework_sprint_2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/homework_sprint_2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/homework_sprint_2/index.html",
+    "main.18f8ca56.css.map": "/homework_sprint_2/static/css/main.18f8ca56.css.map",
+    "main.6f26c4bf.js.map": "/homework_sprint_2/static/js/main.6f26c4bf.js.map",
+    "787.66cb4309.chunk.js.map": "/homework_sprint_2/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f8ca56.css",
+    "static/js/main.6f26c4bf.js"
+  ]
+}
